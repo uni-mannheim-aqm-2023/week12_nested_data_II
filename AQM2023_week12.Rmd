@@ -2,8 +2,8 @@
 title: "AQM Week 12 -- Nested Data II"
 author: 
   - Oliver Rittmann
-  - Viktoriia Semenova
-date: "May 19, 2022"
+  - Domantas Undzėnas
+date: "May 25, 2023"
 output:
   html_document:
     toc: true
@@ -56,15 +56,15 @@ load("raw-data/ward_macro_week12.Rdata")
 
 ## Before we get started
 
-This is the final AQM 2022 lab session! I will be available during regular office hours (Mon, 15:30--17:00) if you want further advice for your term paper.
+This is the final AQM 2023 lab session! we will be available during regular office hours (Tue, 15:30--17:00) if you want further advice for your term paper.
 
 ### Term Paper
 
-Please upload your final term paper on ILIAS. The deadline is June, 15, 10:00.
+Please upload your final term paper on ILIAS. The deadline is June, 7, 10:00 CEST.
 
 ![ILIAS Upload](images/ILIAS.png)
 
-The paper itself should be `lastname_lastname_AQM22.pdf` (`lastname_lastname_lastname_AQM22.pdf` if you are in a group of three). Your upload should include all code and data that is necessary to replicate your analysis. I highly recommend you to work as you did in the homeworks, i.e. in an R-project environment. If you do so, you can simply zip the folder of your Project and upload it.
+The paper itself should be `lastname_lastname_AQM23.pdf` (`lastname_lastname_lastname_AQM23.pdf` if you are in a group of three). Your upload should include all code and data that is necessary to replicate your analysis. I highly recommend you to work as you did in the homeworks, i.e. in an R-project environment. If you do so, you can simply zip the folder of your Project and upload it.
 
 ---
 
@@ -783,7 +783,7 @@ If you want to read more about this model, I recommend the paper by [Bell and Jo
 
 ## Concluding Remarks:
 
-This was the final lab session! If you wish to speak to me about your term paper, I will be available in my regular office hours on monday. Please book an appointment.
+This was the final lab session! If you wish to speak to us about your term paper, we will be available during our regular office hours on Tuesday. Please book an appointment.
 
 Thank you for your participation!
 
