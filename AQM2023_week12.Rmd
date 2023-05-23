@@ -60,7 +60,7 @@ This is the final AQM 2023 lab session! we will be available during regular offi
 
 ### Term Paper
 
-Please upload your final term paper on ILIAS. The deadline is June, 7, 10:00 CEST.
+Please upload your final term paper on ILIAS. The deadline is June, 14, 10:00 CEST.
 
 ![ILIAS Upload](images/ILIAS.png)
 
