@@ -56,7 +56,7 @@ load("raw-data/ward_macro_week12.Rdata")
 
 ## Before we get started
 
-This is the final AQM 2023 lab session! we will be available during regular office hours (Tue, 15:30--17:00) if you want further advice for your term paper.
+This is the final AQM 2023 lab session! We will host longer office hours with three 45 minute slots each (Tue, 15:15--17:30) if you want further advice for your term paper. We found that 15 minute slots are inadequate for discussions of the term paper so close to the deadline.
 
 ### Term Paper
 
