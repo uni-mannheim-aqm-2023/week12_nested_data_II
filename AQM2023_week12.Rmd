@@ -173,7 +173,7 @@ Even though this is great news for many research projects (we need to rely on fe
 
 To illustrate the second point, let's see what happens if we include a dummy variable that indicates whether a country has a parliamentary system or not (a time-invariant country level variable):
 
-```{r, eval=F}
+```{r}
 fe_3 <- lm(vote_share_cab ~ satislfe_survey_mean + 
              parties_ingov + seatshare_cabinet + cab_ideol_sd + ENEP_tmin1 +
              as.factor(dta$country) +
@@ -700,7 +700,7 @@ Let's summarize the advantages and disadvantages of the approaches.
   
 #### Disadvantage of complete pooling:
 
-  + In many applications, there are very likely unobserved confounders on the higher level. For causal effect estimation, complete pooling means to assume that there are no relevant differences between the higher level units--an assumption that is often times very unlikely to be true. Think about what this means in your context!
+  + In many applications, there are very likely unobserved confounders on the higher level. For causal effect estimation, complete pooling means to assume that there are no relevant differences between the higher level units--an assumption that is often times very unlikely to be true. Even more, complete pooling relies on the assumption that observations within the higher level units (e.g. within countries) are independet of one another. This is also very often unlikely to be true. Think about what those assumptions mean in your context!
   
 #### Advantages of random effects (multi-level models):
 
